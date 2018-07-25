@@ -1,4 +1,4 @@
-# Autocomplete
+# ZIP Code JSON
 <strong>Language: JSON</strong>
 
 I want to use a list of ZIP codes for my autocomplete project, but I couldn’t find anything in a good format. 
